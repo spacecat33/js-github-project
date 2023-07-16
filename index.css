@@ -10,4 +10,15 @@
 
 ul {
   list-style: none;
+  list-style-type:none;
+}
+
+li {
+  list-style: none;
+  list-style-type:none;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  
+  
 }
